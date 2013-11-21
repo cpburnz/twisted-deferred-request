@@ -52,3 +52,8 @@ Here's an example using the deferred request::
     
     if __name__ == '__main__':
         exit(main())
+
+.. image:: https://d2weczhvl823v0.cloudfront.net/cpburnz/twisted-deferred-request/trend.png
+   :alt: Bitdeli badge
+   :target: https://bitdeli.com/free
+
